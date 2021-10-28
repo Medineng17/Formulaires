@@ -1,0 +1,74 @@
+.formulaire{
+    border:1px solid beige;
+    width: 400px;
+     justify-content: center;
+
+}
+span{
+    margin: 20px;
+    line-height: 40px;
+}
+input{
+    margin:20px;
+    height: 30px;
+    margin-top: auto;
+    border:1px solid rgb(156,156,156);
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+.Medine{
+    border: 1px solid white;
+    background-color: #11BAE8;
+
+
+}
+.Medng2 input[type=text]{
+    background-color: #11BAE8;
+    margin-left: 200px;
+    height: 20px;
+    width:100px;
+    border-radius: 5px;
+    font-size: 14px;
+    color:white;
+
+
+
+}
+.Medng2 input[type=submit]{
+    width: 100px;
+    height: 40px;
+    margin-left:200px;
+    background-color: #11BAE8;
+    color:white;
+    display: flex;
+   justify-content: center;
+   align-items: center;
+
+
+}
+.Ndinga{
+    border:1px solid white;
+    height: 75px;
+    background-color: #11BAE8;
+    display: flex;
+   justify-content: center;
+   align-items: center;
+
+}
+.Rita{
+    color:white;
+
+}
+.deb{
+    margin-left: 100px;
+
+}
+.RT{
+    margin-left: 5px;
+    color:white;
+}
+.deb{
+    color:white;
+} 
